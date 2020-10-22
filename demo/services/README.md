@@ -5,7 +5,7 @@ These are some demo services each with its own devcontainer development environm
 - [angular-front-end](./angular-front-end)
 - [java-service](./java-service)
 - [database](./database)
-- [node-server](./node-server)
+- [node-service](./node-service)
 
 # Requirements
 
